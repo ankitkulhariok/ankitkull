@@ -1,4 +1,4 @@
-# lazykilller The UserBot 🇮🇳
+# lazykilller The UserBot 
 
 <p align="center">
 
@@ -6,7 +6,7 @@
 Best User Bot To Manage Your Telegram Account 😉
 ## Most PowerFul And Better And Secure !
 
-## By Lazykilller 🇮🇳
+## By Lazykilller 
 
 For any query or want to know how it works join 👇👇
 ### <a href="https://t.me/sararpbot2"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
