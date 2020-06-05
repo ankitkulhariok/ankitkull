@@ -1,7 +1,7 @@
 {
-  "name": "IndianBot",
-  "description": "Userbot created by a IndianBhai and join https://t.me/IndianArMyGiveaway for any problems or support",
-  "logo": "https://telegra.ph/file/b6cd017959adc2814db5f.jpg",
+  "name": "SararpBot",
+  "description": "Userbot created by a Lazykilller and join https://t.me/sararpbot2 for any problems or support",
+  "logo": "https://telegra.ph/file/774fa91453482bd65aa9f.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/indianbhaiya/IndianBot/",
+  "repository": "https://github.com/ankitkulhariok/ankitkull.git",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
